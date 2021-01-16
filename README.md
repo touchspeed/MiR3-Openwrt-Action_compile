@@ -2,7 +2,8 @@
 Build OpenWrt using GitHub Actions
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
-###说明
+##说明
+
 小米路由器3 openwrt固件，当前为pandorabox直接进pb-boot刷openwrt-ramips-mt7620-xiaomi_miwifi-r3-squashfs-pb-boot.bin
 
 
